@@ -3,7 +3,7 @@
 ## Structure
 
 - [PASS] `name` is `agent-authorization-boundary-auditor` (lowercase hyphenated).
-- [PASS] Description is 185 characters, starts with `Audits`, and names the trigger condition.
+- [PASS] Description is 184 characters, starts with `Audits`, and names the trigger condition.
 - [PASS] Required sections exist: 核心定位、触发场景、工作流、输出格式、Gotchas.
 - [PASS] Workflow contains 6 concrete steps (allowed range: 3–8).
 - [PASS] Gotchas contains 6 operational items (minimum: 4).
